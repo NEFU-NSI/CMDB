@@ -14,10 +14,11 @@
     从一开始下载的bootstrap的解压文件找到docs/examples里面选择一个本次测试的模板,本次我们选择docs/examples/blog/下的index.html,复制粘贴到mydjango/testdj/templates/下,然后改名为base.html,然后用编辑器打开
 
     找到
+    <pre>
     <code>
         <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
     </code>
-    
+    </pre>
     改为
     (<link href="/static/bootstap/css/bootstrap.css" rel="stylesheet">)
 
