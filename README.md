@@ -1,10 +1,10 @@
 ＃CMDB
 ###需要对templates目录之下的四个文件进行修改
--页面介绍
- -home.html   主页面
- -department.html 展示部门的页面
- -website.html 展示所有域名页面
- -department_website.html 展示部门网站
+- 页面介绍
+ - home.html   主页面
+ - department.html 展示部门的页面
+ - website.html 展示所有域名页面
+ - department_website.html 展示部门网站
 
 ###静态文件配置
 - 在根目录下创建static文件夹
@@ -30,14 +30,14 @@
     我们更改成了自己的路径,可以更好的适应我们的项目结构
     
 ###项目运行
--安装mysql 命令 pip install mysqlclient一下
--创建名叫domain的库
--更改数据库配置 在settings.py中DATABASES选项里更改password和port  （默认为123555 开放3306端口）
--进入项目 python manage.py migrate 一下
--python mannage.py runserver启动服务
+- 安装mysql 命令 pip install mysqlclient一下
+- 创建名叫domain的库
+- 更改数据库配置 在settings.py中DATABASES选项里更改password和port  （默认为123555 开放3306端口）
+- 进入项目 python manage.py migrate 一下
+- python mannage.py runserver启动服务
 
 ###urls
--http://127.0.0.1:8000/home/  ->  主页面
--http://127.0.0.1:8000/website/  ->  展示所有域名页面
--http://127.0.0.1:8000/department/  ->  展示所有部门页面
---http://127.0.0.1:8000/depart_web/  ->  部门下域名页面
+- http://127.0.0.1:8000/home/  ->  主页面
+- http://127.0.0.1:8000/website/  ->  展示所有域名页面
+- http://127.0.0.1:8000/department/  ->  展示所有部门页面
+- http://127.0.0.1:8000/depart_web/  ->  部门下域名页面
