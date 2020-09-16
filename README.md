@@ -16,21 +16,40 @@
     找到
     <pre>
     <code>
-        <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+        link href="../../dist/css/bootstrap.min.css" rel="stylesheet"
     </code>
     </pre>
     改为
-    (<link href="/static/bootstap/css/bootstrap.css" rel="stylesheet">)
+    <pre>
+    <code>
+    link href="/static/bootstap/css/bootstrap.css" rel="stylesheet"
+    </code>
+    </pre>
 
     找到
-    (<link href="blog.css" rel="stylesheet">)
+    <pre>
+    <code>
+    link href="blog.css" rel="stylesheet"
+    </code>
+    </pre>
     改为
-    (<link href="/static/bootstrap/css/blog.css" rel="stylesheet">)
-
+    <pre>
+    <code>
+    link href="/static/bootstrap/css/blog.css" rel="stylesheet"
+    </code>
+    </pre>
     找到
-    (<script src="../../dist/js/bootstrap.min.js"></script>)
-    改为 (<script src="/static/bootstrap/js/bootstrap.js"></script>)
-
+    <pre>
+    <code>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    </code>
+    </pre>
+    改为
+    <pre>
+    <code>
+    <script src="/static/bootstrap/js/bootstrap.js"></script>
+    </code>
+    </pre>
     我们更改成了自己的路径,可以更好的适应我们的项目结构
     
 ### 项目运行
