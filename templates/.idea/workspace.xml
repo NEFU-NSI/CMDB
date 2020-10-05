@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3284df58-3e7a-4af0-a046-4dbf7423d408" name="默认的" comment="[新增功能](1.0.1): &#10;&#10;前端">
+      <change afterPath="$PROJECT_DIR$/.idea/admin_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/adminlte.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/adminlte.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/adminlte.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/adminlte.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/start.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/AdminLTELogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/boxed-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/boxed-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/star_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/user2-160x160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/东林.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/adminlte.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/adminlte.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/adminlte.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/adminlte.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/pages/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/pages/dashboard2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/pages/dashboard3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/dropzone/basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/dropzone/dropzone-amd-module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/dropzone/dropzone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/dropzone/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/dropzone/dropzone.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/dropzone/min/basic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/dropzone/min/dropzone-amd-module.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/dropzone/min/dropzone.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/dropzone/min/dropzone.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/icheck-bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/icheck-bootstrap/icheck-bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/icheck-bootstrap/icheck-bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/ion-rangeslider/License.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/ion-rangeslider/css/ion.rangeSlider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/ion-rangeslider/css/ion.rangeSlider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/ion-rangeslider/js/ion.rangeSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/ion-rangeslider/js/ion.rangeSlider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2-bootstrap4-theme/select2-bootstrap4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/css/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/css/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/build.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/dsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/hsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/sr-Cyrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/tk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/i18n/zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/select2.full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/select2/js/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8164c709-b8ef-4dfa-9a72-06b6b3ee7287" />
+  </component>
+  <component name="ProjectId" id="1ha04vNZ7xsgSHaCggoXFUTgVOQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3284df58-3e7a-4af0-a046-4dbf7423d408" name="默认的" comment="" />
+      <created>1600233707181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600233707181</updated>
+      <workItem from="1600233708290" duration="2261000" />
+      <workItem from="1600679796339" duration="796000" />
+      <workItem from="1600763771194" duration="363000" />
+      <workItem from="1600775901347" duration="684000" />
+      <workItem from="1601696712412" duration="67000" />
+      <workItem from="1601776434434" duration="2268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[新增功能](1.0.1): &#10;&#10;前端" />
+    <option name="LAST_COMMIT_MESSAGE" value="[新增功能](1.0.1): &#10;&#10;前端" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1601777865652">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1601777865652" />
+    <state x="531" y="241" key="Github.ShareDialog" timestamp="1601777612946">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="531" y="241" key="Github.ShareDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1601777612946" />
+    <state x="430" y="0" key="RollbackChangesDialog" timestamp="1601778718952">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="0" key="RollbackChangesDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1601778718952" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1601776582367">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1601776582367" />
+    <state x="462" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600764091263">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="462" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600764091263" />
+    <state x="443" y="241" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601778042118">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="443" y="241" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1601778042118" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1600777280050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1600777280050" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600234774138">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1366.0.1366.728@0.0.1280.680" timestamp="1600234774138" />
+  </component>
+</project>
